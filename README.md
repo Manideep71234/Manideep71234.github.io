@@ -6,7 +6,7 @@ The site is fully responsive, customizable, and hosted directly on GitHub Pages.
 
 ## 🚀 Live Demo
 You can view my portfolio live here:  
-**[https://manideep71234.github.io/deepu-portfolio.github.io/](https://manideep71234.github.io/deepu-portfolio.github.io/)**
+**[https://manideep71234.github.io/]**
 
 ## 🛠 Tech Stack
 This project uses the following technologies:
@@ -24,6 +24,6 @@ If you want to run this project on your local machine, follow these steps:
 
 **1. Clone the repository**
 
-git clone [https://github.com/Manideep71234/deepu-portfolio.github.io.git](https://github.com/Manideep71234/deepu-portfolio.github.io.git)
+git clone (https://github.com/Manideep71234.github.io.git)
 
 cd deepu-portfolio.github.io
